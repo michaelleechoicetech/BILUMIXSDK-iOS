@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "CTKBilumixSDK",
-            url: "https://github.com/michaelleechoicetech/BILUMIXSDK-iOS/releases/download/v1.0.6/CTKBilumixSDK.xcframework.zip",
-            checksum: "466431ba364584847c68479f939c99e6b1cc61f26f52adac33098ad62c7a387e"
+            url: "https://github.com/michaelleechoicetech/BILUMIXSDK-iOS/releases/download/v1.0.7/CTKBilumixSDK.xcframework.zip",
+            checksum: "faa7093681f0086f05d788bb88175602aaa815b244fc4f4d5116c233530647ef"
         )
     ]
 )
